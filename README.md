@@ -3,12 +3,16 @@ My Solarized Dark i3wm with Manjaro
 
 ![alt text](https://github.com/gamesmessiah/i3wm/blob/master/2017-09-14-152710_3840x1080_scrot.png)
 
+<h3>Basic requirements (for the script)</h3>
+<p>
 <ul>
 This script is still hardcoded so you have to check where your configuration
 files are before you use it.
 <li> i3 configuration file must be placed either under
   <pre><code>  ~/.i3/config or ~/.config/i3/config  
 </code></pre>
+ </p>
+<p>
 
 ![alt text](http://ethanschoonover.com/solarized/img/solarized-palette.png)
 
