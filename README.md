@@ -3,6 +3,8 @@ My Solarized Dark i3wm with Manjaro
 
 ![alt text](https://github.com/gamesmessiah/i3wm/blob/master/2017-09-14-152710_3840x1080_scrot.png)
 
+![alt text](http://ethanschoonover.com/solarized/img/solarized-palette.png)
+
 <h2 id="the-values">The Values</h2>
 <p>L*a*b values are canonical (White D65, Reference D50), other values are matched in sRGB space.</p>
 <pre><code>SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
