@@ -11,8 +11,13 @@ files are before you use it.
 <li> i3 configuration file must be placed either under
   <pre><code>  ~/.i3/config or ~/.config/i3/config  
 </code></pre>
+  <p>
+ </li><li>.Xresources should be under
+<pre><code>  ~/.Xresources or ~/.extend.Xresources
+</code></pre>
  </p>
-<p>
+<hr>
+<h3>Solarized Colour Values</H3>
 
 ![alt text](http://ethanschoonover.com/solarized/img/solarized-palette.png)
 
