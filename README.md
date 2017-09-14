@@ -6,8 +6,8 @@ My Solarized Dark i3wm with Manjaro
 <h3>Basic requirements (for the script)</h3>
 <p>
 <ul>
-This script is still hardcoded so you have to check where your configuration
-files are before you use it.
+<p>This script is still hardcoded so you have to check where your configuration
+  files are before you use it.</p>
 <li> i3 configuration file must be placed either under
   <pre><code>  ~/.i3/config or ~/.config/i3/config  
 </code></pre>
